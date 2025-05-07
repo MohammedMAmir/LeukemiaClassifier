@@ -67,7 +67,7 @@ In the diagnosis of ALL, this can be an arduous process where a human lab techni
 ![alt text](/CNN_Classifier.png?raw=true)
 ### Baseline Model Testing Results
 ![alt text](/Baseline_Results.png?raw=true)
-### Primary Model
+## Primary Model
 #### Alexnet
 ![alt text](/alexnet.png?raw=true)
 #### VGG
@@ -77,9 +77,15 @@ In the diagnosis of ALL, this can be an arduous process where a human lab techni
 ### Constructing a Deep Classifier
 ![alt text](/constructing_classifier.png?raw=true)
 ### Feature Extractor Performance Comparison:
-### Validation (Before Fine-Tuning)
+![alt text](/extraction_results.png?raw=true)
 ### End-to-End Refinement + Hyperparameter Tuning
-### Qualitative Analysis of Fine-Tuned ResNet
-### ResNet18 After Fine-Tuning: Testing
+![alt text](/fine_tuned_model.png?raw=true)
+#### Validation
+![alt text](/fine_tuned_validation.png?raw=true)
+#### Qualitative Analysis of Fine-Tuned ResNet
+![alt text](/fine_tuned_quality.png?raw=true)
+#### Testing
+![alt text](/fine_tuned_test.png?raw=true)
 ### Baseline and Primary Model Comparison
+![alt text](/final_results.png?raw=true)
 
