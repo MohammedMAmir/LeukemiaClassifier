@@ -47,19 +47,39 @@ In the diagnosis of ALL, this can be an arduous process where a human lab techni
   - Poor image quality
   - Too much similarity between different cells
 
-## Contrast Enhancement and Masking
-## Data Augmentation
+### Contrast Enhancement and Masking
+![alt text](/Masking.png?raw=true)
+### Data Augmentation
+##### Effect on the dataset:
+- Increase the size of the dataset
+- Introduce imperfections to the dataset
+##### Effect on the model:
+- More data = Better training
+- Better generalization
+- Better prepared for flawed and imperfect real-life data
+- Accuracy increase from 93% to 97%
+
+![alt text](/augment1.png?raw=true)
+![alt text](/augment2.png?raw=true)
+![alt text](/augment3.png?raw=true)
+
 ## CNN Baseline Model
-## Baseline Model Testing Results
-## Primary Model
-### Alexnet
-### VGG
-### ResNet18
-## Constructing a Deep Classifier
-## Feature Extractor Performance Comparison:
+![alt text](/CNN_Classifier.png?raw=true)
+### Baseline Model Testing Results
+![alt text](/Baseline_Results.png?raw=true)
+### Primary Model
+#### Alexnet
+![alt text](/alexnet.png?raw=true)
+#### VGG
+![alt text](/vgg.png?raw=true)
+#### ResNet18
+![alt text](/resnet18.png?raw=true)
+### Constructing a Deep Classifier
+![alt text](/constructing_classifier.png?raw=true)
+### Feature Extractor Performance Comparison:
 ### Validation (Before Fine-Tuning)
 ### End-to-End Refinement + Hyperparameter Tuning
 ### Qualitative Analysis of Fine-Tuned ResNet
-## ResNet18 After Fine-Tuning: Testing
-## Baseline and Primary Model Comparison
+### ResNet18 After Fine-Tuning: Testing
+### Baseline and Primary Model Comparison
 
