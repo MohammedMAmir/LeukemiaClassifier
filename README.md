@@ -78,7 +78,7 @@ In the diagnosis of ALL, this can be an arduous process where a human lab techni
 ![alt text](/constructing_classifier.png?raw=true)
 ### Feature Extractor Performance Comparison:
 ![alt text](/extraction_results.png?raw=true)
-### End-to-End Refinement + Hyperparameter Tuning
+## End-to-End Refinement + Hyperparameter Tuning
 ![alt text](/fine_tuned_model.png?raw=true)
 #### Validation
 ![alt text](/fine_tuned_validation.png?raw=true)
@@ -86,6 +86,6 @@ In the diagnosis of ALL, this can be an arduous process where a human lab techni
 ![alt text](/fine_tuned_quality.png?raw=true)
 #### Testing
 ![alt text](/fine_tuned_test.png?raw=true)
-### Baseline and Primary Model Comparison
+## Baseline and Primary Model Comparison
 ![alt text](/fine_results.png?raw=true)
 
