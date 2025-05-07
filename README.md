@@ -6,7 +6,7 @@
 #### Motivation:
 If caught early, leukemia can be cured by undergoing several cancer treatments. An AI system was trained to estimate 3-year lung cancer risk from radiologists’ computed tomography (CT) readings and other clinical information. These predictions could then be used to schedule follow-up CT scans for patients with cancer, augmenting current screening guidelines. Validation of such systems on multiple clinical sites and an increasing number of prospective evaluations have brought AI closer to being deployed and making a practical impact in the field of radiology.
 
-## Leukemia Diagnosis
+### Leukemia Diagnosis:
 ## Challenges
 ## Leukemia Classifier
 ## The Data and its Limits
