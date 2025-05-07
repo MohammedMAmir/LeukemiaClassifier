@@ -67,7 +67,7 @@ In the diagnosis of ALL, this can be an arduous process where a human lab techni
 ![alt text](/CNN_Classifier.png?raw=true)
 ### Baseline Model Testing Results
 ![alt text](/Baseline_Results.png?raw=true)
-## Primary Model
+## Primary Model Choice
 #### Alexnet
 ![alt text](/alexnet.png?raw=true)
 #### VGG
@@ -87,5 +87,5 @@ In the diagnosis of ALL, this can be an arduous process where a human lab techni
 #### Testing
 ![alt text](/fine_tuned_test.png?raw=true)
 ### Baseline and Primary Model Comparison
-![alt text](/final_results.png?raw=true)
+![alt text](/fine_results.png?raw=true)
 
